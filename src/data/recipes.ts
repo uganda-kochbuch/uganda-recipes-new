@@ -58,7 +58,7 @@ export const recipes: Recipe[] = [
     title: "Luombo (Ugandischer Eintopf)",
     description: "Ein reichhaltiger Eintopf mit Fleisch, Gemüse und Erdnussbutter, der in Bananenblättern gekocht wird.",
     ingredients: [
-      "500g Rindfleisch",
+      "500g Rindfleisch oder Talapia",
       "2 große Tomaten",
       "2 Zwiebeln",
       "2 Karotten",
@@ -72,7 +72,7 @@ export const recipes: Recipe[] = [
       "Das Fleisch in mundgerechte Stücke schneiden.",
       "Gemüse waschen und in Würfel schneiden.",
       "Bananenblätter waschen und in einen Topf legen.",
-      "Fleisch und Gemüse auf die Blätter legen.",
+      "Fleisch (oder Fisch) und Gemüse auf die Blätter legen.",
       "Erdnussbutter mit Wasser vermischen und über das Fleisch und Gemüse gießen.",
       "Mit Salz und Pfeffer würzen.",
       "Die Blätter über dem Inhalt zusammenfalten.",
